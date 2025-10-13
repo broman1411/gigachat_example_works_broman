@@ -85,14 +85,6 @@
 - Фильтрация по релевантности и дате публикации
 - Краткие описания и источники информации
 
-##### Техническая реализация
-
-###### Архитектура агента
-### Основные компоненты
-travel_tools = [get_weather, find_attractions, find_restaurants, find_news]
-
-agent_executor = create_react_agent(model, travel_tools)
-
 ## Технологический стек
 
 - **Python 3.12+**
